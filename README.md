@@ -11,9 +11,10 @@ The user has to read question and click on answer button which he finds as corre
 ## HERE ARE FEW PICS OF IT
 
 
-![Screenshot (427)](https://user-images.githubusercontent.com/70800409/102447487-0af31500-4056-11eb-8cda-14cb9dff27ee.png)
-![Screenshot (428)](https://user-images.githubusercontent.com/70800409/102447494-0dee0580-4056-11eb-9099-df8b1bb1e325.png)
-![Screenshot (430)](https://user-images.githubusercontent.com/70800409/102447564-3bd34a00-4056-11eb-928d-e0d393db27fb.png)
+![Screenshot (433)](https://user-images.githubusercontent.com/70800409/102447880-eb102100-4056-11eb-89e9-c2ec0bd0e91e.png)
+![Screenshot (432)](https://user-images.githubusercontent.com/70800409/102447883-ec414e00-4056-11eb-8c69-629bb180913f.png)
+![Screenshot (431)](https://user-images.githubusercontent.com/70800409/102447887-ee0b1180-4056-11eb-83b1-84f08b59f9c1.png)
+
 
 
 
